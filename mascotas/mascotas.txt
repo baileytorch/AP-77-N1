@@ -1,0 +1,5 @@
+['Dalmata', 2, 'Python', 'Tu']
+['Boxer', 2, 'Spike', 'Yo']
+['Poodle', 3, 'Java', 'Tu']
+['Foo', 6, 'RTY', 'rt']
+['Doberman', 10, 'Diablo', 'Satanás']

@@ -1,0 +1,1 @@
+tipos_mascotas = ["felino","canino","bovino","porcino","equino"]
